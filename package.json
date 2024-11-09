@@ -1,0 +1,19 @@
+{
+  "name": "bespokecomputing_finalproject",
+  "version": "1.0.0",
+  "description": "Initializing web and script programmming final project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZiyadK1520/bespoke_computing.git"
+  },
+  "author": "Ziyad Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZiyadK1520/bespoke_computing/issues"
+  },
+  "homepage": "https://github.com/ZiyadK1520/bespoke_computing#readme"
+}
